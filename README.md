@@ -1,6 +1,6 @@
 # Integrador-Concurrente-Trenes
 
-<div align= "center"><img src= "https://www.argentina.gob.ar/sites/default/files/planoredroca.jpg" height="300" width="500"></div>
+<div align= "center"><img src= "https://www.argentina.gob.ar/sites/default/files/planoredroca.jpg" height="500" width="500"></div>
 
 # Problema a resolver
 
