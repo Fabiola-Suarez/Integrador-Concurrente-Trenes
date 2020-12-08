@@ -7,7 +7,7 @@
 En el centro de control de circulaciòn de trenes, hay una interfaz que se encarga de:<br>  
 - Zonas de vias compartidas en donde hay que controlar la entrada de trenes por uno y otro lado.<br>
 
-Estos tramos, están vacíos o está ocupados con 1 tren. Cuando un tren quiere entrar y hay otro tren dentro, queda esperando hasta que la vía esté libre.Cuando un tren sale, estese lo notifica a los trenes que estén esperando.
+Estos tramos, están vacíos o está ocupados con un tren. Cuando un tren quiere entrar y hay otro tren dentro, queda esperando hasta que la vía esté libre.Cuando un tren sale, estese lo notifica a los trenes que estén esperando.
 
 Como ya imaginamos esta interfaz tiene muchos años, y su actualizaciòn ha quedado en el pasado. Por consecuencia de esta negligencia todo la red de trenes, es una constante irregularidad y ha habido multiples reclamos de los pasajeros.<br>
 Es por eso que te pedimos que hagas un nuevo diseño para que los trenes funcionen correctamente, y lo mas importante que no se generen accidentes mayores.
