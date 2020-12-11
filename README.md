@@ -14,7 +14,7 @@ Es por eso que te pedimos que hagas un nuevo diseño para que los trenes funcion
 
 # Porque es necesaria y beneficiosa la concurrencia en este problema
 
-Es necesaria porque permite sincronizar el cruce de trenes en estos tramos, si no la tendrìamos ocurririan accidentes y demoras.
+Es necesaria porque permite sincronizar el cruce de trenes en estos tramos, si no la tendrìamos ocurririan accidentes y demoras.<br>
 La concurrencia da el beneficio de optimizar de los recursos utilizados y actualiza un sistema antiguo que no tiene mucha dedicaciòn. 
 
 # Ejemplo de porque se necesita la programaciòn concurrente en los contoles de circulacion de trenes
