@@ -12,7 +12,7 @@ Estos tramos, están vacíos u ocupados con un tren. Cuando un tren quiere entra
 Como ya imaginamos esta interfaz tiene muchos años, y su actualizaciòn ha quedado en el pasado. Por consecuencia de esta negligencia todo la red de trenes, es una constante irregularidad y ha habido multiples reclamos de los pasajeros.<br>
 Es por eso que te pedimos que hagas un nuevo diseño para que los trenes funcionen correctamente, y lo mas importante que no se generen accidentes mayores.
 
-# Porque es necesaria y beneficiosa la concurrencia en este problema
+# Porque es necesaria y beneficiosa la concurrencia en este sistema
 
 Es necesaria porque permite sincronizar el cruce de trenes en estos tramos, si no la tendrìamos ocurririan accidentes y demoras.<br>
 La concurrencia da el beneficio de optimizar de los recursos utilizados y actualiza un sistema antiguo que no tiene mucha dedicaciòn. 
